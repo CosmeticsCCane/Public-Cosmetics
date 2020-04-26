@@ -44,7 +44,8 @@
 {"name":"croatia","type":"cape","scale":0.16,"active":false,"resourceLocation":"croatia"},"dauntless":
 {"name":"dauntless","type":"cape","scale":0.16,"active":false,"resourceLocation":"dauntless"},"djibouti":
 {"name":"djibouti","type":"cape","scale":0.16,"active":false,"resourceLocation":"djibouti"},"dragneel":
-{"name":"dragneel","type":"cape","scale":0.16,"active":false,"resourceLocation":"dragneel"},"easterblossom":
+{"name":"dragneel","type":"cape","scale":0.16,"active":false,"resourceLocation":"dragneel"},"exotic":
+{"name":"exotic","type":"cape","scale":0.16,"active":true,"resourceLocation":"exotic"},"easterblossom":
 {"name":"easterblossom","type":"cape","scale":0.16,"active":false,"resourceLocation":"easterblossom"},"easterbunnyears":
 {"name":"easterbunnyears","type":"cape","scale":0.16,"active":false,"resourceLocation":"easterbunnyears"},"easterlunarclient":
 {"name":"easterlunarclient","type":"cape","scale":0.16,"active":false,"resourceLocation":"easterlunarclient"},"easterlunarnetwork":
@@ -212,7 +213,7 @@
 {"name":"ultra_cape_2","type":"cape","scale":0.16,"active":false,"resourceLocation":"ultra_cape_2"},"usa":
 {"name":"usa","type":"cape","scale":0.16,"active":false,"resourceLocation":"usa"},"valentine_cape_1":
 {"name":"valentine_cape_1","type":"cape","scale":0.16,"active":false,"resourceLocation":"valentine_cape_1"},"valentine_cape_2":
-{"name":"valentine_cape_2","type":"cape","scale":0.16,"active":true,"resourceLocation":"valentine_cape_2"},"valentine_cape_3":
+{"name":"valentine_cape_2","type":"cape","scale":0.16,"active":false,"resourceLocation":"valentine_cape_2"},"valentine_cape_3":
 {"name":"valentine_cape_3","type":"cape","scale":0.16,"active":false,"resourceLocation":"valentine_cape_3"},"valentine_cape_4":
 {"name":"valentine_cape_4","type":"cape","scale":0.16,"active":false,"resourceLocation":"valentine_cape_4"},"valentinecupid":
 {"name":"valentinecupid","type":"cape","scale":0.16,"active":false,"resourceLocation":"valentinecupid"},"valentinehearts":
