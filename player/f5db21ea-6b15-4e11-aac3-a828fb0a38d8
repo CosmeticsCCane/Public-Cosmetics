@@ -4,4 +4,4 @@
 {"name":"2013","type":"cape","scale":0.16,"active":false,"resourceLocation":"2013"},"2015":
 {"name":"2015","type":"cape","scale":0.16,"active":false,"resourceLocation":"2015"},"2016":
 {"name":"2016","type":"cape","scale":0.16,"active":true,"resourceLocation":"2016"},"butterfly_2":
-{"name":"butterfly_2","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"butterfly_2"}}}
+{"name":"butterfly_2","type":"dragon_wings","scale":0.10,"active":true,"resourceLocation":"butterfly_2"}}}
