@@ -2,4 +2,4 @@
 {"name":"CheatBreaker_Black","type":"cape","scale":0.16,"active":true,"resourceLocation":"CheatBreaker_Black"},"CheatBreaker_White":
 {"name":"CheatBreaker_White","type":"cape","scale":0.16,"active":false,"resourceLocation":"CheatBreaker_White"},"normal":
 {"name":"normal","type":"dragon_wings","scale":0.10,"active":true,"resourceLocation":"normal"},"orange":
-{"name":"orange","type":"dragon_wings","scale":0.10,"active":true,"resourceLocation":"orange"}}}
+{"name":"orange","type":"dragon_wings","scale":0.10,"active":false,"resourceLocation":"orange"}}}
